@@ -1,0 +1,7 @@
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\bin\Debug\Week_2_Challenges.exe.config
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\bin\Debug\Week_2_Challenges.exe
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\bin\Debug\Week_2_Challenges.pdb
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\obj\Debug\Week_2_Challenges.csprojAssemblyReference.cache
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\obj\Debug\Week_2_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\obj\Debug\Week_2_Challenges.exe
+C:\Users\ericl\ElevenFiftyProjects\Week_2_Challenges\obj\Debug\Week_2_Challenges.pdb
