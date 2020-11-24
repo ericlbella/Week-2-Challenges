@@ -9,7 +9,7 @@ namespace Week_2_Challenges
     class Greeter
     {
         public void Name(string name)
-        {   
+        {
             //String Interpolation
             Console.WriteLine($"Hello {name}");
 
@@ -23,7 +23,7 @@ namespace Week_2_Challenges
             // String Interlotation
             Console.WriteLine($"Farewell {name}");
         }
-///
+        ///
         public void TimeOfDay()
         {
             // Depending on the current time, print either Good Morning, Good Afternoon, Good Evening, or Good Night
@@ -44,13 +44,15 @@ namespace Week_2_Challenges
                 Console.WriteLine("Good afternoon");
             }
             // if it is past 6PM but before 9PM, print "Good evening."
-            else if (time.Hour > 17 && time.Hour <= 21)
+            else if (time.Hour >= 17 && time.Hour <= 21)
             {
                 Console.WriteLine("Good evening.");
             }
             else
+            {
                 Console.WriteLine("Good night.");
             }
 
         }
     }
+}
